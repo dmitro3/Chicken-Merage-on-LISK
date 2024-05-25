@@ -58,7 +58,10 @@ When it comes to gaming, players want immersive experiences without any technica
 
 **Our Next plans:**
 Saves player progress on chain
+
 Sell multiple NFTs to increase player power
+
 Create an exchange for NFTs and game items
+
 
 **Reference Link:**
